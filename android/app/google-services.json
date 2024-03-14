@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "674882402559",
+    "project_id": "vasravitan-t5w3r9",
+    "storage_bucket": "vasravitan-t5w3r9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674882402559:android:f688f49c7e2600d8dbb4ca",
+        "android_client_info": {
+          "package_name": "com.musa.vasravitan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674882402559-bn07i79kn0n3h61j9fm92sn3jpedcuhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musa.vasravitan",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "674882402559-k069pu73forir28j31trnruedichfdei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrocPxrfE3SSdSfDyE9pGdMR2EOJHckdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674882402559-k069pu73forir28j31trnruedichfdei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674882402559-i2819du0i6p982di7vgo59f5r7ir7kfl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musa.vasravitan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

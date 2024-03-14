@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>674882402559-i2819du0i6p982di7vgo59f5r7ir7kfl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.674882402559-i2819du0i6p982di7vgo59f5r7ir7kfl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>674882402559-bn07i79kn0n3h61j9fm92sn3jpedcuhe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBz-UEcSnpQvxoDBcFWto8N2SIlQFipOIg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>674882402559</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.musa.vasravitan</string>
+	<key>PROJECT_ID</key>
+	<string>vasravitan-t5w3r9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vasravitan-t5w3r9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:674882402559:ios:a3942545c6848124dbb4ca</string>
+</dict>
+</plist>
